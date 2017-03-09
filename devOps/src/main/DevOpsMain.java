@@ -8,7 +8,7 @@ public class DevOpsMain {
 	
 		DevOpsController controller=new DevOpsController();
 		
-		controller.set("Akash", "TCS");
+		controller.set("Akash", "TCS","Edinburgh");
 		controller.display();
 
 	}
